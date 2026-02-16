@@ -35,10 +35,10 @@ The application allows users to add products, manage cart items, calculate total
 - Clear cart after successful order placement
 
 ## 🛠️ Technologies Used
-Frontend: ASP.NET Web Forms
-Backend: C#
-Database: SQL Server
-Data Access: ADO.NET (SqlConnection, SqlCommand, SqlDataReader)
+- Frontend: ASP.NET Web Forms
+- Backend: C#
+- Database: SQL Server
+- Data Access: ADO.NET (SqlConnection, SqlCommand, SqlDataReader)
 
 ## 🗄️ Database Tables
 - productDB – Stores product details
